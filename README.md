@@ -62,4 +62,27 @@
   <a href="mailto:aakash.mutum@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white&style=for-the-badge" height="34" />
   </a>
-  <a href="https://www.linkedin.com/in/aaka
+  <a href="https://www.linkedin.com/in/aakashsinghmutum/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="34" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashmutum.aakashmutum&left_text=Humans%20(Probably)" />
+</div>
+
+###
+
+<br clear="both">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/github-contribution-grid-snake.svg" />
+</picture>
+
+###
