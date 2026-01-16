@@ -20,6 +20,12 @@
 
 <br clear="both">
 
+<p align="left"></p>
+
+###
+
+<br clear="both">
+
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="33" alt="python logo" />
   <img width="12" />
@@ -78,7 +84,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashmutum.aakashmutum&left_text=Humans%20(probably)" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashmutum.aakashmutum&left_text=Humans(probably)" />
 </div>
 
 ###
