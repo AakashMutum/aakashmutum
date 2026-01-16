@@ -8,15 +8,19 @@
 
 <br clear="both">
 
-<h1 align="left">Wassup peeps, Aakash here!</h1>
+<div>
+  <img align="right" height="240" src="./One_Summer_s_Day_GO_remix.gif" alt="Rainy day aesthetic" />
+
+  <h1 align="left">Wassup peeps, Aakash here!</h1>
+
+  <p align="left">
+    idk what to keep here yet — but feel free to check out my projects 👀
+  </p>
+</div>
 
 ###
 
-<p align="left">idk what to keep here yet — but feel free to check out my projects 👀</p>
-
-###
-
-<br />
+<br clear="both">
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
@@ -65,14 +69,6 @@
   <a href="https://www.linkedin.com/in/aakashsinghmutum/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge" height="36" />
   </a>
-</div>
-
-###
-
-<br />
-
-<div align="center">
-  <img height="260" src="./One_Summer_s_Day_GO_remix.gif" alt="Rainy day aesthetic" />
 </div>
 
 ###
