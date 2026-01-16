@@ -52,16 +52,6 @@
 
 ###
 
-## 📦 Repositories
-
-Here are some things I’ve been working on:
-
-- 🔹 Check out my pinned repositories below  
-- 🔹 Mostly experiments, projects, and learning stuff  
-- 🔹 More coming as I break and fix things
-
-###
-
 <div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&color=FF0000&logoColor=white&style=for-the-badge" height="34" />
@@ -76,12 +66,6 @@ Here are some things I’ve been working on:
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="34" />
   </a>
 </div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/snake.svg" alt="Snake animation" />
 
 ###
 
