@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="200" src="./One_Summer_s_Day_GO_remix.gif" />
+<img align="right" height="260" src="./One_Summer_s_Day_GO_remix.gif" />
 
 ###
 
