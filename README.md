@@ -71,6 +71,16 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/snake.svg" alt="Snake animation" />
+<!-- Snake contribution animation -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/snake.svg" alt="Snake animation" />
+</div>
+
+###
+
+<!-- Profile view counter -->
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashmutum.aakashmutum&left_text=Humans%20(Probably)" />
+</div>
 
 ###
