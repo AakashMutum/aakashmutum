@@ -18,43 +18,39 @@
   </p>
 </div>
 
-###
-
-<br clear="both">
+<br />
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" alt="python logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="42" alt="c logo" />
+  <img src="https://cdn.simpleicons.org/c/A8B9CC" height="42" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="42" alt="github logo" />
+  <img src="https://cdn.simpleicons.org/github/181717" height="42" />
   <img width="14" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="42" alt="googlecloud logo" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="42" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" alt="html5 logo" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="42" />
   <img width="14" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" alt="mysql logo" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42" alt="matlab logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="42" alt="chrome logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" alt="mongodb logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" alt="numpy logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="42" alt="photoshop logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" alt="r logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="42" />
   <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="42" />
 </div>
 
-###
-
-<br />
+<br /><br />
 
 <div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
