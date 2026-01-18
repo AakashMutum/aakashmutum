@@ -1,7 +1,7 @@
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" />
+<div align="center">
+  <img style="width:100%;" src="https://capsule-render.vercel.app/api?type=wave&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=twinkling&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight" />
 </div>
 
 ###
@@ -14,17 +14,27 @@
 
 ###
 
-<p align="left">idk what to keep here so just check out my projects ig? :)</p>
+<p align="left">
+I build things because ideas do not leave me alone.<br>
+Mostly web, sometimes systems, occasionally chaos.<br>
+Scroll around. Click stuff. Something might surprise you.
+</p>
 
 ###
 
 <br clear="both">
 
-<p align="left"></p>
+---
 
-###
+### ⚡ What I Like Building
+- Interactive web experiences  
+- Tools that explain things simply  
+- Systems that feel alive instead of static  
+- Projects that mix aesthetics with logic  
 
-<br clear="both">
+---
+
+### 🛠️ Tech I Work With
 
 <div align="center">
   <a href="https://www.python.org/" target="_blank">
@@ -97,35 +107,34 @@
   </a>
 </div>
 
-###
+---
 
-<br clear="both">
+### 🌐 Find Me Here
 
 <div align="center">
   <a href="https://youtu.be/dQw4w9WgXcQ" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="36" alt="youtube logo" />
+    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="36" />
   </a>
+
   <a href="https://www.instagram.com/aakashmutum/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="36" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="36" />
   </a>
-  <a href="mailto:aakash.mutum@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="36" alt="gmail logo" />
+
+  <a href="javascript:void(0);" onclick="navigator.clipboard.writeText('aakash.mutum@gmail.com').then(() => alert('Email copied to clipboard! 📋'));">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="36" title="Click to copy email" />
   </a>
+
   <a href="https://www.linkedin.com/in/aakashsinghmutum/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="36" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="36" />
   </a>
 </div>
 
-###
-
-<br clear="both">
+---
 
 <img src="https://raw.githubusercontent.com/aakashmutum/aakashmutum/output/snake.svg" alt="Snake animation" />
 
-###
+---
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aakashmutum.aakashmutum&left_text=Humans(probably)" />
 </div>
-
-###
